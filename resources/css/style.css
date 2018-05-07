@@ -1,5 +1,5 @@
 body {
-  font-family: Verdana;
+  font-family: Verdana, helvetica;
   background-color: black;
   text-align: center;
   color: white;
@@ -22,4 +22,9 @@ p {
 }
 .footer {
   text-align: right;
+  color: gray;
+}
+.mac {
+  font-size: 21px;
+  color: gray;
 }
